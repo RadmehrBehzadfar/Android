@@ -12,4 +12,4 @@ This repository contains code and projects related to the MAP course, covering v
 If you have any questions, feel free to reach out:
 
 - GitHub: [RadmehrBehzadfar](https://github.com/RadmehrBehzadfar)
-- Email: your.email@example.com
+- Email: radmehr.behzadfar.rbaa@gmail.com
