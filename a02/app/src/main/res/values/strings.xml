@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">PIZZA_RADMEHR</string>
+    <string name="discount_banner">10% off if you spend $80 or more!</string>
+
+    <!-- Labels -->
+    <string name="label_pizza_type">What kind of pizza would you like?</string>
+    <string name="label_pizza_size">Select the size of your pizza:</string>
+    <string name="label_quantity">Select the quantity (1 to 10):</string>
+    <string name="label_phone_number">Enter your phone number:</string>
+    <string name="hint_phone_number">1234567890</string>
+    <string name="label_delivery_method">Choose a delivery method:</string>
+    <string name="label_notify_me">Notify me when my pizza is ready</string>
+    <string name="button_place_order">Place Order</string>
+
+    <!-- Pizza type array -->
+    <string-array name="pizza_types">
+        <item>Vegetarian Pizza</item>
+        <item>Meat Pizza</item>
+        <item>California-style Pizza</item>
+        <item>Detroit-style Pizza</item>
+        <item>Hawaiian Pizza</item>
+        <item>Pizza Margarita</item>
+        <item>Canadian Pizza</item>
+        <item>Greek Pizza</item>
+        <item>Pepperoni Pizza</item>
+        <item>BBQ Chicken Pizza</item>
+        <item>Veggie Supreme Pizza</item>
+        <item>Four Cheese Pizza</item>
+        <item>Buffalo Chicken Pizza</item>
+        <item>Spinach Artichoke Pizza</item>
+    </string-array>
+
+    <!-- Pizza size array -->
+    <string-array name="pizza_sizes">
+        <item>Small - $12.99</item>
+        <item>Medium - $16.99</item>
+        <item>Large - $20.99</item>
+        <item>Party Size - $26.99</item>
+    </string-array>
+
+    <!-- Quantity array (1 to 10) -->
+    <string-array name="quantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <!-- Delivery mode array -->
+    <string-array name="delivery_modes">
+        <item>Pick-up</item>
+        <item>Delivery (+ $3.99)</item>
+    </string-array>
+
+    <!-- Validation -->
+    <string name="error_invalid_phone">Please enter a valid phone number!</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PAYSLIP_RADMEHR</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="payslip_radmehr">PAYSLIP_RADMEHR</string>
+    <string name="please_enter_your_hourly_rate">Please enter your hourly rate:</string>
+    <string name="please_enter_hours">Please enter hours:</string>
+    <string name="rate">Rate</string>
+    <string name="hours">Hours</string>
+    <string name="weekly_earnings">Weekly Earnings:</string>
+    <string name="cpp">CPP:</string>
+    <string name="vacation_pay">Vacation Pay:</string>
+    <string name="ei">EI:</string>
+    <string name="tax">Tax:</string>
+    <string name="total_pay">Total Pay:</string>
+</resources>
