@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TASK_RADMEHR</string>
+    <string name="title_tasks">My Tasks</string>
+    <string name="title_form">Enter a new task</string>
+    <string name="hint_enter_task">Enter the todo</string>
+    <string name="label_priority">Is high priority?</string>
+    <string name="button_add_task">Add Task</string>
+    <string name="button_update_task">Update Task</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoamTO_Radmehr</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="date_hint">Date (yyyy‑MM‑dd)</string>
+    <string name="location_hint">Location address</string>
+    <string name="add_place">Add Place</string>
+    <string name="update_place">Update Place</string>
+    <string name="google_maps_key">AIzaSyA9GXm2ch4zQ0tTN-byRAc7dIIPa61GOQE</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

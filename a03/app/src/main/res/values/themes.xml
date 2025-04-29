@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TASK_RADMEHR" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.TASK_RADMEHR" parent="Base.Theme.TASK_RADMEHR">
+    </style>
+</resources>
